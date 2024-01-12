@@ -1,11 +1,6 @@
 # My Portfolio
 Welcome to my portfolio! Here are some sections you might be interested in:
-- [Homepage](readme.md)
-- [Workshops](workshops.md)
-- [Python ETL Assignment](etl_assignment.md)
-- [Projects](projects.md)
-- [Skills](skills.md)
-- [Contact](contact.md)
+- [Homepage](README.md) - [Workshops](workshops.md) - [Python ETL Assignment](etl_assignment.md) - [Projects](projects.md) - [Skills](skills.md) - [Contact](contact.md)
 ## Introduction:
 
 I am a student at the University of Sunderland doing an MSc in Data Science. Throughout my academic career, I have worked hard to have a thorough understanding of data science concepts such as statistical modeling, machine learning, and data analysis. Applying these abilities to address issues in the actual world and push the field forward excites me.
