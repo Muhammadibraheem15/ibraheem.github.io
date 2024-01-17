@@ -1,10 +1,8 @@
 # Workshops Section
 - [Homepage](README.md) - [Workshops](workshops.md) - [Python ETL Assignment](etl_assignment.md) - [Projects](projects.md) - [Skills](skills.md) - [Contact](contact.md)
-## For each workshop:
-Include the workshop title, date, and a brief description.
-Discuss what you learned and highlight any specific projects or skills gained.
 
-Navigating Challenges in Technology Management
+
+## Navigating Challenges in Technology Management
 # INTRODUCTION: 
 Through a series of eight workshops, every one aimed at imparting crucial skills in technology management, this ePortfolio documents the experience. The main topic of discussion is Extract, Transform, Load (ETL) procedures, which are essential to database administration and data integration. The story develops as we go deeper into each workshop, highlighting the difficulties we face at each turn and offering insights into the learning curve and problem-solving techniques.
 For businesses handling large datasets, the ETL process is the foundation of effective data processing. Through the workshops, participants will gradually gain the skill set required to navigate the complexity of data management, starting with basic ideas in databases and SQL and moving on to sophisticated approaches in Python and web development. Every workshop offers a different set of obstacles that call for flexibility, analytical thinking, and the application of theoretical knowledge in real-world settings.
